@@ -4,4 +4,6 @@
 # Ignore emacs backup files
 *~
 
+# Ignore raw data
+USGS_data.txt
 
